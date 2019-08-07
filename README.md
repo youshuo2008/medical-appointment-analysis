@@ -5,7 +5,7 @@ This project and README file were created on 08/06/2019.
 Medical appointment No-shows analysis
 
 ### Project Description
-This project is part of my Udacity's Nanodegree:  
+This project is part of my Udacity's Data Analyst Nanodegree where I looked at Medical appointment No-shows data to identify interesting trends. 
 
 
 ### Files used
