@@ -12,4 +12,4 @@ This project is part of my Udacity's Data Analyst Nanodegree where I looked at M
 
 
 ### Credits
-Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Sam Nelson, Derek Steer and mentors: Raj V.  
+Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V.  
