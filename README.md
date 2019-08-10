@@ -9,7 +9,7 @@ This project is part of my Udacity's Data Analyst Nanodegree where I looked at M
 
 
 ### Files used
-
+The CSV file used in this project was provided by Kaggle.
 
 ### Credits
 Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V.  
