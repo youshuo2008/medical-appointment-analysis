@@ -5,9 +5,9 @@ This project and README file were created on 08/06/2019.
 Medical appointment No-shows analysis
 
 ### Project Description
-This project is part of my Udacity's Data Analyst Nanodegree where I wrangled and explored Medical appointment No-shows data to identify interesting trends.
+This project is part of my Udacity's Data Analyst Nanodegree where I wrangled and explored the Medical appointment No-shows dataset to identify interesting trends.
 I looked into whether text message reminders, days between appointment scheduled day and actual appointment day, and age would affect no-show rates.
- 
+
 
 ### Files used
 The CSV file used in this project was provided by Kaggle. The dataset collects information from 100k medical appointments in Brazil.
