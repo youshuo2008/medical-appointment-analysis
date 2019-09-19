@@ -6,7 +6,7 @@ Medical appointment No-shows analysis
 
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree where I wrangled and explored the Medical appointment No-shows dataset to identify interesting trends.
-I looked into whether text message reminders, days between appointment scheduled day and actual appointment day, and age would affect no-show rates.
+I examined whether text message reminders, days between appointment scheduled day and actual appointment day and patient age would affect medical appointment no-show rates.
 
 
 ### Files used
