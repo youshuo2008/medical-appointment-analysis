@@ -2,7 +2,7 @@
 This project and README file were created on 08/06/2019.
 
 ### Project Title
-Medical appointment No-shows analysis
+Medical appointment No-shows exploratory analysis
 
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree where I wrangled and explored the Medical appointment No-shows dataset to identify interesting trends.
