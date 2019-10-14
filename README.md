@@ -10,7 +10,7 @@ I examined whether text message reminders, days between appointment scheduled da
 
 
 ### Files used
-The CSV file used in this project was provided by Kaggle. <br />
+The CSV file used in this project was provided by Kaggle and can be found at [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv). <br />
 The dataset collects information from 100k medical appointments in Brazil.
 
 ### Credits
